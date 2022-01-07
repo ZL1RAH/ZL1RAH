@@ -2,7 +2,7 @@
 - 👀 I’m interested in ham radio, electronics, and cycling
 - 🌱 I’m currently learning visual studio and programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me via email - zl2rah@outlook.com
 
 <!---
 ZL1RAH/ZL1RAH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
